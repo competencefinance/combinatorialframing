@@ -1,6 +1,4 @@
 # Measuring Alignment to State Media as Framing Bias
 
-The code we used to produce our results is in `nlp4if/lexcat`.
-
-Our paper can be found [here](https://www.aclweb.org/anthology/2020.nlp4if-1.2.pdf).
+A fork of the code used in the paper: [here](https://www.aclweb.org/anthology/2020.nlp4if-1.2.pdf).
 
